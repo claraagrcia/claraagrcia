@@ -11,6 +11,7 @@ I am in my final year pursuing a double degree in Mathematics and Computer Engin
 - Interests: Statistical modeling, software engineering, UX-informed development, and team collaboration
 - Current focus: Strengthening full-stack and data skills; contributing to meaningful projects
 - Location: Spain
+- Personal web: https://claraagrcia.github.io/
 
 ---
 
@@ -55,8 +56,7 @@ Figma · Dart · Flutter · Three.js · React · Supabase · C++ · R · SCRUM
 Open to contract roles — email preferred.
 
 - Email: your-claraagrcia@gmail.com
-- Personal portfolio:
-- CV:
+- Personal web: https://claraagrcia.github.io/
 
 ---
 
